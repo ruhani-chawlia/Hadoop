@@ -1,0 +1,12 @@
+Kenya,4,40,10,ODI
+Netherlands,7,88,13,ODI
+Bangladesh,13,134,10,Test Match
+Zimbabwe,11,372,34,Test Match
+Ireland,11,423,38,ODI
+Zimbabwe,26,1439,55,ODI
+Bangladesh,23,1754,76,ODI
+New Zealand,27,2126,79,Test Match
+Pakistan,22,2133,97,Test Match
+West Indies,22,2168,99,Test Match
+Sri Lanka,26,2295,88,Test Match
+New Zealand,29,2593,89,ODI
