@@ -1,0 +1,1 @@
+MapReduce application to find the country with the highest rating in each category (ODI, Test Match) and in subcategory - number of matches played less than 20, and between 20 and 30. 
