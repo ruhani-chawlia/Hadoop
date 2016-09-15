@@ -1,0 +1,1 @@
+MapReduce program to find maximum temperature recorded in the year 1901 and 1902. We are using gzip files as input to our MR job, which store weather data recorded by weather sensors every hour at many locations across the globe. 
