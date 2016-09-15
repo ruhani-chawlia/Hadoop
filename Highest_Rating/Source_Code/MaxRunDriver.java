@@ -10,7 +10,7 @@ public class MaxRunDriver {
 	public static void main(String[] args) throws Exception{
 		Configuration conf = new Configuration() ;
 		Job job = Job.getInstance(conf, "Max Runs with Partitioner") ;
-		job.setNumReduceTasks(3) ;
+		job.setNumReduceTasks(2) ;
 		job.setMapperClass(MaxRunMapper.class) ;
 		job.setPartitionerClass(MaxRunPartitioner.class) ;
 		job.setReducerClass(MaxRunReducer.class) ;
